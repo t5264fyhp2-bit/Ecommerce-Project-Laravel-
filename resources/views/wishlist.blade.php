@@ -1,12 +1,4 @@
-{--
-    =====================================================
-    VybeCart - Wishlist Page
-    =====================================================
-    Description: User wishlist management interface
-    Author: VybeCart Team
-    Last Modified: 2025-12-28
-    =====================================================
---}
+
 {{--
     =====================================================
     VybeCart - Wishlist Page

@@ -47,3 +47,8 @@ return new class extends Migration
         Schema::dropIfExists('sessions');
     }
 };
+
+$user = App\Models\User::where('email', 'admin@gmail.com')->first();
+$user->password = '123456789';
+$user->save();
+exit;

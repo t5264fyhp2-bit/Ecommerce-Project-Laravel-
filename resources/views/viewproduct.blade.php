@@ -1,12 +1,4 @@
-{--
-    =====================================================
-    VybeCart - Product Detail Page
-    =====================================================
-    Description: Detailed product view with reviews and cart functionality
-    Author: VybeCart Team
-    Last Modified: 2025-12-28
-    =====================================================
---}
+
 {{--
     =====================================================
     VybeCart - Product Detail Page

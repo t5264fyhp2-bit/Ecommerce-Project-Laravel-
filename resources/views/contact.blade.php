@@ -1,12 +1,4 @@
-{--
-    =====================================================
-    VybeCart - Contact Us
-    =====================================================
-    Description: Contact form and customer support information
-    Author: VybeCart Team
-    Last Modified: 2025-12-28
-    =====================================================
---}
+
 {{--
     =====================================================
     VybeCart - Contact Us

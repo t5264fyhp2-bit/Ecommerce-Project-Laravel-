@@ -1,12 +1,4 @@
-{--
-    =====================================================
-    VybeCart - Shopping Cart
-    =====================================================
-    Description: Shopping cart management and checkout process
-    Author: VybeCart Team
-    Last Modified: 2025-12-28
-    =====================================================
---}
+
 {{--
     =====================================================
     VybeCart - Shopping Cart

@@ -486,7 +486,7 @@
             <div class="flex items-center justify-center text-sm font-medium py-3 relative">
                 <div class="animate-pulse-slow">
                     <i class="ri-gift-line mr-2"></i> 
-                    <span class="font-semibold">FREE SHIPPING</span> on orders above $100! 
+                    <span class="font-semibold">FREE SHIPPING</span> on orders above Rs 1000! 
                     <span class="ml-2 px-2 py-1 bg-white/20 rounded-full text-xs">LIMITED TIME</span>
                 </div>
                 <div class="absolute inset-0 overflow-hidden pointer-events-none">
